@@ -1,0 +1,25 @@
+# Build
+bin/
+obj/
+.vs/
+TestResults/
+
+# Runtime data
+*.db
+*.db-shm
+*.db-wal
+Data/
+TestData/
+Logs/
+
+# Local NuGet cache (kept on F: instead of C:)
+.nuget/
+
+# IDE
+*.user
+*.suo
+*.userosscache
+
+# OS
+Thumbs.db
+Desktop.ini
